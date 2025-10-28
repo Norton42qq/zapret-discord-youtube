@@ -25,7 +25,7 @@
 1. **Скачайте и запустите скрипт установки:**
 
    ```bash
-   bash <(curl -s https://raw.githubusercontent.com/kartavkun/zapret-discord-youtube/macos/setup.sh)
+   bash <(curl -s https://raw.githubusercontent.com/Norton42qq/zapret-discord-youtube/macos/setup.sh)
    ```
 
 Этот скрипт:
